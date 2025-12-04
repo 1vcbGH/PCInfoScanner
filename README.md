@@ -28,3 +28,5 @@ Cloná el repositorio:
 ```bash
 git clone https://github.com/1vcbGH/PCInfoScanner
 cd PCInfoScanner
+
+https://media.discordapp.net/attachments/1420134140581380187/1446023517320777791/image.png?ex=693279d8&is=69312858&hm=27fda82da47009d2587e62f7c3ed8fd18d250a90be42ee8bd9884adf3abb0a87&=&format=webp&quality=lossless&width=1599&height=874
