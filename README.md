@@ -1,5 +1,5 @@
 # PCInfoScanner 🔍💻
-Una herramienta avanzada de análisis de hardware para Windows 10 y Windows 11.  
+Una herramienta de análisis de hardware para Windows 10 y Windows 11.  
 Detecta **CPU, GPU, RAM, discos, motherboard, ventiladores** y genera un informe completo en tu Escritorio.  
 100% compatible con Windows 11.
 
