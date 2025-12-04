@@ -19,6 +19,11 @@ Detecta **CPU, GPU, RAM, discos, motherboard, ventiladores** y genera un informe
 - 🛠️ Funciona como script o compilado a `.exe` con PyInstaller
 
 ---
+VirusTotal análisis:
+https://www.virustotal.com/gui/file/a42a4b89a1e6dc55f51ab563ba377574d9651fc7ec693592e57ffed9061ff40e?nocache=1 - GUI Version
+https://www.virustotal.com/gui/file/fade2179bb477543e024a212da40df58c4e6d6eb8b187e29968a7c0f6b00942d/detection - CMD Version
+
+---
 Valualo con una estrellita ⭐😉
 ---
 <img src="https://media.discordapp.net/attachments/1420134140581380187/1446023517320777791/image.png?ex=693279d8&is=69312858&hm=27fda82da47009d2587e62f7c3ed8fd18d250a90be42ee8bd9884adf3abb0a87&=&format=webp&quality=lossless&width=1599&height=874" 
