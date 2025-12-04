@@ -19,6 +19,8 @@ Detecta **CPU, GPU, RAM, discos, motherboard, ventiladores** y genera un informe
 - 🛠️ Funciona como script o compilado a `.exe` con PyInstaller
 
 ---
+Valualo con una estrellita ⭐😉
+---
 
 ## 📦 Instalación
 Cloná el repositorio:
