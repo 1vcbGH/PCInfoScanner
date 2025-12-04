@@ -22,7 +22,7 @@ Detecta **CPU, GPU, RAM, discos, motherboard, ventiladores** y genera un informe
 Valualo con una estrellita ⭐😉
 ---
 <img src="https://media.discordapp.net/attachments/1420134140581380187/1446023517320777791/image.png?ex=693279d8&is=69312858&hm=27fda82da47009d2587e62f7c3ed8fd18d250a90be42ee8bd9884adf3abb0a87&=&format=webp&quality=lossless&width=1599&height=874" 
-     alt="PCINFOSCANNER" width="140" style="border-radius: 50%;" />
+     alt="PCINFOSCANNER" width="800" style="border-radius: 50%;" />
 
      
 ## 📦 Instalación
